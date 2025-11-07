@@ -3,7 +3,7 @@
 To make it work just create .env file with the following content:
 
 ```
-OPENAI_API_KEY= # your OpenAI API key
+GEMINI_API_KEY= # your GEMINI API key
 ```
 
 ## How to use
