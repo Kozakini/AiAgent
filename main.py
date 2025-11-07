@@ -47,7 +47,6 @@ def main():
                 tools=[available_functions], system_instruction = system_prompt
             )
         )
-        print(response)
 
 
         if response.candidates:
